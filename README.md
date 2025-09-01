@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascolini&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </p>
 
 ---
