@@ -11,11 +11,11 @@
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolascolini)
-
----
 
 ## 🌐 Onde me encontrar
 
