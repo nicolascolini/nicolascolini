@@ -1,22 +1,24 @@
-# Nicolas Colini 
+# Nicolas Colini
 
-- 🧩 Estudante de Análise e Desenvolvimento de Sistemas**
+- 🧩 Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
 ## ✨ Sobre mim
-- 🎯 Curioso por tecnologia, interfaces web, banco de dados, desenvolvimento web  
-- 🎮 Hobbies: **Ler sobre assuntos do meu interesse, assistir, jogar alguns games**   
-- 💡 Interessado em colocar meus conhecimentos em prática no mercado de trabalho.
+- 🎯 Curioso por tecnologia, interfaces web, banco de dados e desenvolvimento web  
+- 🎮 Hobbies: **Ler sobre assuntos do meu interesse, assistir e jogar alguns games**  
+- 💡 Interessado em colocar meus conhecimentos em prática no mercado de trabalho
 
 ---
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascolini&layout=compact&theme=dracula)
+## 📊 Linguagens mais usadas
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascolini&layout=compact&theme=dracula&cache_seconds=86400)
 
 ---
 
 ## 🌐 Onde me encontrar
+
 <p align="center">
   <a href="https://instagram.com/nicolascolinic" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
