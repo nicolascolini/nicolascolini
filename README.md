@@ -11,11 +11,8 @@
 
 ---
 
-<p align="center">
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascolini&layout=compact&theme=dracula)
 
-</p>
 
 ---
 
