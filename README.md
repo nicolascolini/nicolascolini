@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Sobre mim
-- 🎯 Curioso por tecnologia, interfaces web, banco de dados e desenvolvimento web  
+- 🎯 Curioso por tecnologia. Interfaces Web | Desenvolvimento Full Stack | Flutter, Node.Js, UX/UI, React, JavaScript/TypeScript, Java
 - 🎮 Hobbies: **Ler sobre assuntos do meu interesse, assistir e jogar alguns games**  
 - 💡 Interessado em colocar meus conhecimentos em prática no mercado de trabalho
 
