@@ -5,16 +5,10 @@
 ---
 
 ## ✨ Sobre mim
-- 🎯 Curioso por tecnologia. Interfaces Web | Desenvolvimento Full Stack | Flutter, Node.Js, UX/UI, React, JavaScript/TypeScript, Java, Python, SQL
+- 🎯 Curioso por tecnologia. Interfaces Web | Desenvolvimento Full Stack | Flutter, Node.Js, UX/UI, React, JavaScript/TypeScript, Java, Python, laravel, SQL
 - 🎮 Hobbies: **Ler sobre assuntos do meu interesse, assistir e jogar alguns games**  
-- 💡 Interessado em colocar meus conhecimentos em prática no mercado de trabalho
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascolini&layout=compact&" alt="Linguagens mais usadas"/>
-</p>
 
 
 ## 🌐 Onde me encontrar
